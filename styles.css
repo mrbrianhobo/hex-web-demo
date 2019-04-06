@@ -1,0 +1,43 @@
+/* This is where all our styles go! */
+body {
+	font-family: 'Nunito', sans-serif;
+	color: #777777;
+	background-color: #6C45C4;
+	background: -webkit-linear-gradient(315deg, #6C45C4 0%, #6C45C4 30%, #b875ff 100%) fixed;
+	background: linear-gradient(135deg, #6C45C4 0%, #6C45C4 30%, #b875ff 100%) fixed;
+}
+
+h1 {
+	font-family: 'Merriweather', serif;
+}
+
+a {
+	color: #6C45C4;
+}
+
+a:hover {
+	color: #777777;
+}
+
+.about {
+	font-size: 1.2em;
+	margin: 100px auto;
+	width: 500px;
+	text-align: center;
+	background-color: #fff;
+	border-radius: 4px;
+	padding: 25px 25px 40px 25px;
+}
+
+.about-content {
+	text-align: justify;
+	margin: 10px 60px;
+}
+
+.blue {
+	color: #2b97ef;
+}
+
+.links {
+	font-size: 2em;
+}
